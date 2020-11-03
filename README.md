@@ -1,2 +1,4 @@
-# procedural-november.pak
-Procedurally-generated asset pack
+# Procedural November Asset Pack
+
+Procedurally-generated asset pack.
+
